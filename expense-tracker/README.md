@@ -7,12 +7,6 @@ This is a simple and beginner-friendly Python project that helps users:
 - Save summary to a `.txt` file
 - Visualize spending using a pie chart 📊
 
-## 🔁 Project Flow
-
-Below is the basic logic flow of the project:
-
-![Flowchart of Expense Tracker](./expense_flowchart.png)
-
 ## 🛠 Technologies Used
 
 - Python
