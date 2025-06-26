@@ -1,22 +1,43 @@
 # 🧾 Expense Tracker – Python Project
 
-This is a simple Python project that lets users:
-- Add daily expenses with date, category, and amount
-- View total spending and category-wise summary
-- Save the summary to a `.txt` file
+This is a simple and beginner-friendly Python project that helps users:
+- Record daily expenses
+- Categorize spending (Food, Travel, etc.)
+- View total + category-wise spending
+- Save summary to a `.txt` file
 - Visualize spending using a pie chart 📊
 
-### 🛠 Technologies Used
+## 🔁 Project Flow
+
+Below is the basic logic flow of the project:
+
+![Flowchart of Expense Tracker](./expense_flowchart.png)
+
+## 🛠 Technologies Used
+
 - Python
 - Jupyter Notebook
-- Matplotlib
+- Matplotlib (for pie chart)
+- File handling (write to `.txt`)
 
-### 📁 Files
-- `expense_tracker.ipynb` – Main code file
-- `expense_summary.txt` – Saved output
-- Pie chart – Displayed when code is run
+## ▶️ How to Run
 
----
+1. Open the file `expense_tracker.ipynb` in Jupyter Notebook  
+2. Run each cell one by one  
+3. Enter expenses when prompted  
+4. View total and category-wise summary  
+5. Pie chart appears automatically  
+6. Check folder for `expense_summary.txt`
 
-👩‍💻 *Built with love by Sangamithra 💖*
+## 📂 Files Included
 
+- `expense_tracker.ipynb` – Full working notebook  
+- `expense_summary.txt` – Output text file  
+- `expense_flowchart.png` – Flowchart of the logic  
+- `README.md` – Project documentation
+
+
+## 💖 Author
+
+**Sangamithra** – Final Year IT Student  
+Learning Python | Building Projects | Dreaming Big 💫
