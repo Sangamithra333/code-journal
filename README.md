@@ -1,2 +1,4 @@
 # code-journal
-A collection of my Python practice codes as I learn programming and data science.
+This repository is a personal journal of my Python learning journey.
+Each folder contains a small project or practice code I've written to improve my coding, logic, and data science skills.
+
