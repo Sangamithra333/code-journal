@@ -1,0 +1,10 @@
+Enter a sentence to get an emoji (or type 'exit' to quit):  iam happy
+Predicted Emoji: 😊
+Enter a sentence to get an emoji (or type 'exit' to quit):  iam sad
+Predicted Emoji: 😢
+Enter a sentence to get an emoji (or type 'exit' to quit):  i hate u
+Predicted Emoji: 😡
+Enter a sentence to get an emoji (or type 'exit' to quit):  i dont like u
+Predicted Emoji: 😴
+Enter a sentence to get an emoji (or type 'exit' to quit):  exit
+Hope u enjoyed! 💖
